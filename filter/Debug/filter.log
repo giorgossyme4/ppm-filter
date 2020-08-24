@@ -1,0 +1,8 @@
+﻿  FilterGamma.cpp
+  FilterLinear.cpp
+  Image.cpp
+  main.cpp
+d:\γιωργοσ συμεωνιδησ\downloads\filter\filter\main.cpp(57): warning C4018: '>=': signed/unsigned mismatch
+d:\γιωργοσ συμεωνιδησ\downloads\filter\filter\main.cpp(70): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  filter.vcxproj -> D:\ΓΙΩΡΓΟΣ ΣΥΜΕΩΝΙΔΗΣ\Downloads\filter\Debug\filter.exe

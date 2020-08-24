@@ -1,0 +1,5 @@
+﻿  ppm.cpp
+d:\γιωργοσ συμεωνιδησ\downloads\filter\filter\ppm\ppm.cpp(49): warning C4018: '<': signed/unsigned mismatch
+d:\γιωργοσ συμεωνιδησ\downloads\filter\filter\ppm\ppm.cpp(68): warning C4018: '<': signed/unsigned mismatch
+d:\γιωργοσ συμεωνιδησ\downloads\filter\filter\ppm\ppm.cpp(69): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  ppm.vcxproj -> D:\ΓΙΩΡΓΟΣ ΣΥΜΕΩΝΙΔΗΣ\Downloads\filter\ppm\ppm_d.lib
